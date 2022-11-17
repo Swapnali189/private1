@@ -27,6 +27,8 @@ public class listbox {
  s.selectByVisibleText("Sep");
  
  //s.selectByValue("18");
+		
+		s.o.p("month");
 	}
 
 }
